@@ -1,5 +1,5 @@
 
-# Михайлов Денис Артемович
+# Суднишников Никита Михайлович
 
 Практическая работа #1
 
@@ -11,8 +11,8 @@
 
 Эмулятор
 
-![image](https://github.com/user-attachments/assets/3edf102e-959a-4e83-bb22-20b8dd82a288)
+![image]()
 
 Браузер Edge
-![image](https://github.com/user-attachments/assets/45db7a4d-d2f0-4afb-9a38-ed23c188fc29)
+![image]()
 
